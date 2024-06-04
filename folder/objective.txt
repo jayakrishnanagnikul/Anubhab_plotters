@@ -1,0 +1,2 @@
+1. Time stamp 
+2. bit wise parsing
